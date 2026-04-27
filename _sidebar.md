@@ -5,6 +5,7 @@
   - [파인더 & 파일 관리](/mac/finder)
   - [핵심 단축키](/mac/shortcuts)
   - [시스템 설정 & 관리](/mac/system)
+  - [네트워크 & 인터넷 속도](/mac/network)
   - [필수 앱 & 설치법](/mac/apps)
 
 - **터미널 & iTerm2**
