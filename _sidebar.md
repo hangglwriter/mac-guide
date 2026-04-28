@@ -11,6 +11,7 @@
 - **터미널 & iTerm2**
   - [터미널이란?](/terminal/concept)
   - [iTerm2 설치 & 설정](/terminal/iterm-setup)
+  - [터미널 사용법 (단축키 & 분할)](/terminal/usage)
   - [iTerm2 주요 기능](/terminal/iterm-features)
   - [자주 쓰는 명령어](/terminal/basic-commands)
   - [쉘 설정 & 꾸미기](/terminal/zsh)
